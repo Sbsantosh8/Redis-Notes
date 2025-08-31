@@ -28,3 +28,13 @@ print(r.ttl(f"user:{user_id}:profile"))
 
 
 
+
+
+
+
+
+
+
+
+
+
